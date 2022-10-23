@@ -1,4 +1,4 @@
-### Make Change project
+# Make Change project
 
 ## Description
 program to act as a cash regrister.
